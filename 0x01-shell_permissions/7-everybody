@@ -1,4 +1,2 @@
 #!/bin/bash
--rwxr-x--x
-#!/bin/bash
 chmod +111 hello
